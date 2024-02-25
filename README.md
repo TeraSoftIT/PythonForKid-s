@@ -1,4 +1,5 @@
 # Class 00: Introductory		
+-New
 - About the Instractor
 - Something Added by Admin
 - Nothing Added by Colobarate
