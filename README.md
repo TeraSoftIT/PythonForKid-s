@@ -1,10 +1,10 @@
 # Class 00: Introductory		
  - About the Instractor
-   ```
-print("Directly in Command Line")
-print("Indentation")
-if 5>2:
-    print("Five is greater than two")
+   ```Python
+	print("Directly in Command Line")
+	print("Indentation")
+	if 5>2:
+	    print("Five is greater than two")
     
    ``` 
  - Prerequisites of Python Course		
