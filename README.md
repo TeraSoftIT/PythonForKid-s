@@ -1,6 +1,7 @@
 # Class 00: Introductory		
 - About the Instractor
 - Something Added by Admin
+- Nothing Added by Colobarate
 - Prerequisites of Python Course		
 - Course Content of Python		
 - Course Goal & Plan		
