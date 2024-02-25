@@ -4,9 +4,11 @@
 - Nothing Added by Colobarate
 - This is New Rule by Admin and Colobarator
 - One more thing or nothing
+- Public
 - Prerequisites of Python Course		
 - Course Content of Python		
-- Course Goal & Plan		
+- Course Goal & Plan
+- 	
 			
 	# Class 01: Introduction of Python		
 - What is Python?		
