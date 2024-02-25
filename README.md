@@ -1,5 +1,4 @@
-
-	# Class 00: Introductory		
+# Class 00: Introductory		
 - About the Instractor
 - Prerequisites of Python Course		
 - Course Content of Python		
