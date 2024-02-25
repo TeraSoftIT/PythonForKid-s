@@ -2,7 +2,7 @@
 - About the Instractor
 - Something Added by Admin
 - Nothing Added by Colobarate
-- This is New Rule by Admin
+- This is New Rule by Admin and Colobarator
 - Prerequisites of Python Course		
 - Course Content of Python		
 - Course Goal & Plan		
