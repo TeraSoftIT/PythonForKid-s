@@ -1,12 +1,5 @@
 # Class 00: Introductory		
  - About the Instractor
-   ```Python
-	print("Directly in Command Line")
-	print("Indentation")
-	if 5>2:
-	    print("Five is greater than two")
-    
-   ``` 
  - Prerequisites of Python Course		
  - Course Content of Python		
  - Course Goal & Plan
@@ -248,13 +241,13 @@
 			
 	# Class 02: Fundamental of Python		
 - Python Syntax
-  '''Python
-print("Directly in Command Line")
-print("Indentation")
-if 5>2:
-    print("Five is greater than two")
+   ```Python
+	print("Directly in Command Line")
+	print("Indentation")
+	if 5>2:
+	    print("Five is greater than two")
     
-  ''' 
+   ``` 
 - Naming Conventions & Indentation		
 - Python Case-Sensitive or Not		
 - First programme of Python		
