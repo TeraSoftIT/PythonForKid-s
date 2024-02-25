@@ -1,8 +1,8 @@
-	Class 00: Introductory		
-1	About the Instractor		
-2	Prerequisites of Python Course		
-3	Course Content of Python		
-4	Course Goal & Plan		
+	Class 00: Introductory
+ About the Instractor	
+ Prerequisites of Python Course		
+ Course Content of Python		
+ Course Goal & Plan		
 			
 	Class 01: Introduction of Python		
 7	What is Python?		
