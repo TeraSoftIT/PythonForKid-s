@@ -1,10 +1,35 @@
-# Class 00: Introductory		
 
- - Buy this Course: <https://terasoftit.com/>
-
+	# Class 00: Introductory		
+- About the Instractor
+- Prerequisites of Python Course		
+- Course Content of Python		
+- Course Goal & Plan		
+			
+	# Class 01: Introduction of Python		
+- What is Python?		
+- Who Developed Python?		
+- A Brief History of Python Python & Versions		
+- Installation Python & Environment Setup		
+- IDLE vs Code Editior(VS Code, Atom, Sublime Text, Pycharm)		
+- Executing Python from the Command Line		
+- Documentation of Python 		
+- Getting Help for Python		
+- Reserved Words of Python		
+- Project: Project thinking discussion		
 			
 	# Class 02: Fundamental of Python		
-	
+- Python Syntax
+- Naming Conventions & Indentation		
+- Python Case-Sensitive or Not		
+- First programme of Python		
+- Basic Input & Output		
+- Basic Numeric Operation		
+- Local Variable vs Global Variables		
+- Multi Values Variable		
+- Data Type		
+- Comments		
+- Escape Characters		
+- Project: Project based on Chapter		
 			
 	# Class 03: Operator		
 - Introduction to Operators		
