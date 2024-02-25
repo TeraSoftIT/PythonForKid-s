@@ -2,16 +2,8 @@
 
  - Buy this Course: <https://terasoftit.com/>
  # Class 01: Introduction of Python		
- - What is Python?		
- - Who Developed Python?		
-- A Brief History of Python Python & Versions		
-- Installation Python & Environment Setup		
-- IDLE vs Code Editior(VS Code, Atom, Sublime Text, Pycharm)		
-- Executing Python from the Command Line		
-- Documentation of Python 		
-- Getting Help for Python		
-- Reserved Words of Python		
-- Project: Project thinking discussion		
+	
+	
 			
 	# Class 02: Fundamental of Python		
 - Python Syntax		
