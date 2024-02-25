@@ -2,8 +2,8 @@
  - About the Instractor		
  - Prerequisites of Python Course		
  - Course Content of Python		
- - Course Goal & Plan		
-<https://terasoftit.com/>
+ - Course Goal & Plan
+ - Buy this Course: <https://terasoftit.com/>
  # Class 01: Introduction of Python		
  - What is Python?		
  - Who Developed Python?		
