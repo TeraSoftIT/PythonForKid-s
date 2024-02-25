@@ -1,9 +1,7 @@
 # Class 00: Introductory		
 
  - Buy this Course: <https://terasoftit.com/>
- # Class 01: Introduction of Python		
-	
-	
+
 			
 	# Class 02: Fundamental of Python		
 - Python Syntax		
