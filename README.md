@@ -240,7 +240,14 @@
 - Project: Project thinking discussion		
 			
 	# Class 02: Fundamental of Python		
-- Python Syntax		
+- Python Syntax
+  '''
+print("Directly in Command Line")
+print("Indentation")
+if 5>2:
+    print("Five is greater than two")
+    
+  ''' 
 - Naming Conventions & Indentation		
 - Python Case-Sensitive or Not		
 - First programme of Python		
