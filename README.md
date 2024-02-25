@@ -4,18 +4,7 @@
 
 			
 	# Class 02: Fundamental of Python		
-- Python Syntax		
-- Naming Conventions & Indentation		
-- Python Case-Sensitive or Not		
-- First programme of Python		
-- Basic Input & Output		
-- Basic Numeric Operation		
-- Local Variable vs Global Variables		
-- Multi Values Variable		
-- Data Type		
-- Comments		
-- Escape Characters		
-- Project: Project based on Chapter		
+	
 			
 	# Class 03: Operator		
 - Introduction to Operators		
