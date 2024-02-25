@@ -16,31 +16,31 @@
 - Reserved Words of Python		
 - Project: Project thinking discussion		
 			
-	Class 02: Fundamental of Python		
-20	Python Syntax		
-21	Naming Conventions & Indentation		
-22	Python Case-Sensitive or Not		
-23	First programme of Python		
-24	Basic Input & Output		
-25	Basic Numeric Operation		
-26	Local Variable vs Global Variables		
-27	Multi Values Variable		
-28	Data Type		
-29	Comments		
-30	Escape Characters		
-31	Project: Project based on Chapter		
+	# Class 02: Fundamental of Python		
+- Python Syntax		
+- Naming Conventions & Indentation		
+- Python Case-Sensitive or Not		
+- First programme of Python		
+- Basic Input & Output		
+- Basic Numeric Operation		
+- Local Variable vs Global Variables		
+- Multi Values Variable		
+- Data Type		
+- Comments		
+- Escape Characters		
+- Project: Project based on Chapter		
 			
-	Class 03: Operator		
-34	Introduction to Operators		
-35	Operand vs Operator		
-36	Boolen Operator		
-37	Arithmetic Operator		
-38	Comparisum Operator		
-39	Assainment Operator		
-40	Boolen Logic (and, or, not)		
-41	Project: Project based on operator		
+	# Class 03: Operator		
+- Introduction to Operators		
+- Operand vs Operator		
+- Boolen Operator		
+- Arithmetic Operator		
+- Comparisum Operator		
+- Assainment Operator		
+- Boolen Logic (and, or, not)		
+- Project: Project based on operator		
 			
-	Class 04: Conditional Logic		
+	# Class 04: Conditional Logic		
 44	if Statement		
 45	if...else Statement		
 46	if…elif Statement		
