@@ -1,10 +1,10 @@
-	# Class 00: Introductory		
+# Class 00: Introductory		
 - About the Instractor		
 - Prerequisites of Python Course		
 - Course Content of Python		
 - Course Goal & Plan		
-			
-	# Class 01: Introduction of Python		
+
+ # Class 01: Introduction of Python		
 - What is Python?		
 - Who Developed Python?		
 - A Brief History of Python Python & Versions		
@@ -41,12 +41,12 @@
 - Project: Project based on operator		
 			
 	# Class 04: Conditional Logic
-if Statement
-if...else Statement
-if…elif Statement
-Nested if statement
-Shorthand if…else statement
-Project: Simple Project based on Conditional Logic.(Pass/ Faill, Leap Year)
+- if Statement
+- if...else Statement
+- if…elif Statement
+- Nested if statement
+- Shorthand if…else statement
+- Project: Simple Project based on Conditional Logic.(Pass/ Faill, Leap Year)
 
 # Class 05: Loop
 - Introduction of Loop
@@ -263,12 +263,12 @@ Project: Simple Project based on Conditional Logic.(Pass/ Faill, Leap Year)
 - Project: Project based on operator		
 			
 	# Class 04: Conditional Logic
-if Statement
-if...else Statement
-if…elif Statement
-Nested if statement
-Shorthand if…else statement
-Project: Simple Project based on Conditional Logic.(Pass/ Faill, Leap Year)
+- if Statement
+- if...else Statement
+- if…elif Statement
+- Nested if statement
+- Shorthand if…else statement
+- Project: Simple Project based on Conditional Logic.(Pass/ Faill, Leap Year)
 
 # Class 05: Loop
 - Introduction of Loop
