@@ -1,10 +1,10 @@
-	#Class 00: Introductory		
+	# Class 00: Introductory		
 - About the Instractor		
 - Prerequisites of Python Course		
 - Course Content of Python		
 - Course Goal & Plan		
 			
-	#Class 01: Introduction of Python		
+	# Class 01: Introduction of Python		
 - What is Python?		
 - Who Developed Python?		
 - A Brief History of Python Python & Versions		
