@@ -3,7 +3,7 @@
 - Something Added by Admin
 - Nothing Added by Colobarate
 - This is New Rule by Admin and Colobarator
-- One more thing
+- One more thing or nothing
 - Prerequisites of Python Course		
 - Course Content of Python		
 - Course Goal & Plan		
