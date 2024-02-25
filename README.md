@@ -241,7 +241,7 @@
 			
 	# Class 02: Fundamental of Python		
 - Python Syntax
-  '''
+  '''Python
 print("Directly in Command Line")
 print("Indentation")
 if 5>2:
