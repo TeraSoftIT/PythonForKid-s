@@ -1,21 +1,20 @@
-	Class 00: Introductory
- - About the Instractor	
- - Prerequisites of Python Course		
- - Course Content of Python		
- - Course Goal & Plan		
+	Class 00: Introductory		
+- About the Instractor		
+- Prerequisites of Python Course		
+- Course Content of Python		
+- Course Goal & Plan		
 			
 	Class 01: Introduction of Python		
-7	What is Python?		
-8	Who Developed Python?		
-9	A Brief History of Python Python & Versions		
-10	Installation Python & Environment Setup		
-11	IDLE vs Code Editior(VS Code, Atom, Sublime Text, Pycharm)		
-12	Executing Python from the Command Line		
-13	Editing Python Files		
-14	Documentation of Python 		
-15	Getting Help for Python		
-16	Reserved Words of Python		
-17	Project: Project thinking discussion		
+- What is Python?		
+- Who Developed Python?		
+- A Brief History of Python Python & Versions		
+- Installation Python & Environment Setup		
+- IDLE vs Code Editior(VS Code, Atom, Sublime Text, Pycharm)		
+- Executing Python from the Command Line		
+- Documentation of Python 		
+- Getting Help for Python		
+- Reserved Words of Python		
+- Project: Project thinking discussion		
 			
 	Class 02: Fundamental of Python		
 20	Python Syntax		
@@ -220,4 +219,4 @@
 219	Writen Exam		
 220	Final Project		
 221	Presentation		
-![image](https://github.com/Aliul1990/PythonForKid-s/assets/36182749/056f390b-3687-4171-8d11-0c77dad9a0ff)
+![image](https://github.com/Aliul1990/PythonForKid-s/assets/36182749/bf6826a2-a49c-4d62-a4c5-00765df1ef26)
